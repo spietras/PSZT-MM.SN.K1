@@ -1,7 +1,7 @@
 # perceptron
 Multilayer Perceptron Library 🧠
 
-## Example usage
+## Usage example
 
 ```python
 from models import MultiLayerPerceptron
